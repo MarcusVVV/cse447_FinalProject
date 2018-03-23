@@ -1,4 +1,4 @@
-basicly we need to predict what is the probability that this customer will buy this product.
+basicly we need to predict the probability that this customer will buy this product.
 
 
 The dataset contains anonymized customers' shopping logs in the past 6 months before and on the "Double 11" day, and the information indicating whether they are loyal customers for given merchants (for training data only). The folder contains five files, with details listed below.
