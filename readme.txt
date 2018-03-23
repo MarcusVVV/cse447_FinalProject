@@ -1,9 +1,9 @@
-basicly we need to predict the probability that this customer will buy this product.
+##basicly we need to predict the probability that this customer will buy this product.
 
 
 The dataset contains anonymized customers' shopping logs in the past 6 months before and on the "Double 11" day, and the information indicating whether they are loyal customers for given merchants (for training data only). The folder contains five files, with details listed below.
 
-File descriptions
+##File descriptions
 
 user_info.csv - customers' profiles, including their ages and genders
 user_log.csv - customers' shopping logs in the past 6 months
@@ -12,7 +12,7 @@ test_label.csv - loyalty of customer and merchant pairs (for prediction)
 sample_submission.csv - a sample submission file in the correct format
 Data fields
 
-user_info.csv (customer profile)
+##user_info.csv (customer profile)
 
 user_id - an anonymous id unique to a given customer
 age_range - the customer' s age: 0 for <18; 1 for [18,24]; 2 for [25,29]; 3 for [30,34]; 4 for [35,39]; 5 for [40,49]; 6 for >= 50; 7 for unknown
